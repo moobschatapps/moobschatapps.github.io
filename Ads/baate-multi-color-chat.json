@@ -7,7 +7,7 @@
             {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
-                "AdAppKey": "1261eec25",
+                "AdAppKey": "15ab083fd",
                 "BannerAdKey": "",
                 "InterstitialAdKey": "",
                 "RewardedAdKey": "",
@@ -16,10 +16,10 @@
             {
                 "MonetizationId": 1,
                 "MonetizerName": "Facebook Monetization",
-                "AdAppKey": "444",
-                "BannerAdKey": "444",
-                "InterstitialAdKey": "444",
-                "RewardedAdKey": "444",
+                "AdAppKey": "618220889499475",
+                "BannerAdKey": "618220889499475_618221666166064",
+                "InterstitialAdKey": "618220889499475_618221729499391",
+                "RewardedAdKey": "618220889499475_618221846166046",
                 "NativeAdKey": ""
             }
         ]
